@@ -1,0 +1,11 @@
+1. Bez optimizacije optimalnog iznosa koraka algoritam ne pronalazi optimalno rjesenje
+
+2. Newton - Raphson i gradijentni spust uspješno pronalaze minimum funkcija 1 i 2
+
+3. Newton - Raphson bez pronalaska optimalnog koraka na pravcu je divergirao. Međutim, s pronalaskom optimalnog koraka je algoritam konvergirao i nasao minimum.
+
+4. Uspjesno je algoritam pronasao minimum.
+
+5. Za pocetnu tocku (-2, 2) i (2, 2) algoritam pronalazi minimum. Međutim, za pocetnu tocku (2, 2) algoritam ne pronalazi optimum vec nailazi na pogresku.
+
+6. Algoritam uspjesno pronalazi minimum sustava jednadzbi.

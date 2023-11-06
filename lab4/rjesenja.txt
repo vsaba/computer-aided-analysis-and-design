@@ -1,0 +1,6 @@
+1. Položaj optimuma za funkciju 1 se mijenja na (0.1, 0.1). Međutim, algoritam povremeno nađe i točno rješenje optimuma.
+   Položaj optimuma za funkciju 2 se mijenja na (2, 2)
+
+2. Uz zadanu početnu točku uspješno se pronalazi optimum funkcije.
+
+3.

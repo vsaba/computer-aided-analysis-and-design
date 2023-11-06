@@ -1,0 +1,19 @@
+1. Usporedba double varijabli treba biti sa Double.equals() metodom, jer ta metoda usporeduje razlika dvaju broja s 0 i na temelju doga daje odgovor o jednakosti.
+
+2. Ne moze se koristiti LU dekompozicija, jedan od pivota bude 0
+
+3. Nije moguce rijesiti, jer ovakav sustav nema rjesenja. Zadnji pivot bude 0.
+
+4. LU dekompozicija ne radi, pivot bude jako mali, odnosno 0. LUP dekompozicija uspije jer se mali pivot zamijeni vecim pivotom i time se znacajne znamenke ne izgube.
+
+5. Zadani sustav se ne moze rijesiti LU dekompozicijom jer su pivotni elementi 0.
+
+6. U matrici A se nalaze izrazito veliki brojevi i izrazito mali brojevi. Pri operacijama s tim brojevima ce se izgubiti znacajne znamenke i rjesenje ce biti netocno. Potrebno je korisiti LUP dekompoziciju.
+
+7. Determinanta zadane matrice je 0. Stoga, inverz ne postoji!
+
+8. Inverz je zapisan u datoteci.
+
+9. Determinanta se ispisuje na zaslon.
+
+10. Determinanta se ispisuje na zaslon.
